@@ -1,0 +1,9 @@
+﻿author = Really'if.s.
+version = 0.1.0.0
+hideCode = false
+homepage = https://jq.qq.com/?_wv=1027&k=xecC4DKL
+includePDB = true
+buildIgnore = *.csproj, *.sln, obj\*, bin\*, *.suo, *.user, .git\*, .vs\*, .gitignore
+displayName = EMReallyifs(额外音乐)
+hideResources = true
+includeSource = false
